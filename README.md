@@ -1,4 +1,4 @@
-# Space Station | 공간 꾸미기 SNS 웹 서비스
+# Space Station | 사진 공유 SNS 웹 서비스
 
 [배포 링크](http://kdt-sw-7-team03.elicecoding.com/)
 
